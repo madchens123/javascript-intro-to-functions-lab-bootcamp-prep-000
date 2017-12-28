@@ -20,5 +20,8 @@ function sayHiToGrandma(string) {
   return "I can't hear you!"
 }
 
+sayHiToGrandma('YES INDEED!')
+sayHiToGrandma('I love you, too.')
+
 
 
